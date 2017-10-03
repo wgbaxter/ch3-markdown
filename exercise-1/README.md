@@ -6,4 +6,4 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 "Be Boundless"
-Learn More [Here](uw.edu)
+Learn More [Here](http://www.uw.edu)
